@@ -1,0 +1,7 @@
+- 电影模块 父  films 
+
+    详情 film
+  - 正在热映 nowPlaying
+  - 即将上映 comingSoon
+- 影院模块 cinemas
+- 个人中心模块 center
