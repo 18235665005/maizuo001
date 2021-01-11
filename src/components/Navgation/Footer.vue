@@ -25,6 +25,7 @@ export default {
         }
     },
     created(){
+        // console.log(this.$route)
     this.active = this.urls.indexOf(this.$route.path) > -1 ? this.urls.indexOf(this.$route.path) : 0
         },
     methods:{
